@@ -3,10 +3,10 @@
 - En una escala de 1 a 10, califica la satisfacción en general con tu empleo en esta empresa.
 - Cuál es la razón número uno por la que te levantas de la cama por la mañana y vienes a trabajar?
 - Lista tres elementos que quisieras tener en tu escritorio si el dinero no fuera una preocupación.
+- Hay algún tema en el que piensas durante el día con el cual te sientas un poco confundido o que no sea claro?
+- Hay alguien con el que te resulte difícil trabajar por algún motivo?
 
 # TODO
-- Is there any topic that comes up during the day that you feel confused or unclear about?
-- Is there anyone specifically that you have a hard time working with for any reason? 
 - Do you feel challenged on a daily basis?
 - Do you feel competitive with your coworkers, or is it more of a teamwork environment?
 - Is there anyone within the company that you look up to, and why?
